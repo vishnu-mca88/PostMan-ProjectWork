@@ -17,4 +17,12 @@ NOTE:
 Key -JQL
 
 value-project=AP%26created >= -24h
+
+
+1st Task:
+Get: https://api-training.atlassian.net/rest/api/2/search?jql=project=JUL
+Key : JQL
+Value: project=JUL
+Authorization: Basic Auth with the Test leaf given user name and password.
+
 
